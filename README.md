@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Pasindu Kumarasinghe</h1>
-<h3 align="center">🛡️ Cyber Security Student | Frontend Developer | SLIIT</h3>
+<h3 align="center">🛡️ Cyber Security Student | SLIIT</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
