@@ -1,95 +1,112 @@
 <h1 align="center">Hi 👋 I'm Pasindu Kumarasinghe</h1>
-<h3 align="center">🛡️ Cyber Security Student | SLIIT</h3>
+<h3 align="center">🛡️ Cyber Security Student | Faculty of Computing | SLIIT</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF9C&center=true&vCenter=true&width=600&lines=Cyber+Security+Student;Ethical+Hacking+Learner;Web+Security+Explorer;Future+Security+Engineer"/>
 </p>
 
 ---
 
-## 👨‍🎓 About Me
-- 🎓 Undergraduate **Cyber Security student** at **SLIIT – Faculty of Computing**
-- 💻 Passionate about **Web Development & Security**
-- 🌱 Currently learning **Java, Network Security & Ethical Hacking basics**
-- 🎯 Goal: Become a **Cyber Security Engineer / Ethical Hacker**
-- 📫 Email: **pasindukumarasinghe200@gmail.com**
+# 👨‍💻 About Me
+
+🎓 Undergraduate **Cyber Security Student** at **SLIIT – Faculty of Computing**  
+💻 Interested in **Web Security & Secure Development**  
+🔐 Passionate about **Cyber Defense and Ethical Hacking**  
+🌱 Currently learning **Java, Python, Network Security**  
+🎯 Goal: Become a **Cyber Security Engineer / Ethical Hacker**
+
+📫 Email: **pasindukumarasinghe200@gmail.com**
 
 ---
 
-## 💡 Current Learning Focus
+# 🚀 Current Learning Focus
+
 ```
-🔐 Cyber Security fundamentals  
-🌐 Secure Web Development  
-🕵️ Ethical Hacking basics  
-🐍 Python for security automation  
-☕ Java programming  
+Cyber Security Fundamentals
+Secure Web Development
+Ethical Hacking Basics
+Python Security Automation
+Java Programming
 ```
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,git,github,linux,vscode"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teshan242&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teshan242&theme=tokyonight" />
-</p>
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teshan242&layout=compact&theme=tokyonight" />
-</p>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teshan242&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=teshan242&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 🛡️ Cyber Security Team Initiative
-### 👥 Cyber Security Team @ GitHub
+# 🛡️ Cyber Security Team Initiative
 
-We are building a small **Cyber Security learning community** focused on:
+### Cyber Security Learning Community
 
-- 🔍 Web vulnerability testing  
-- 🧪 Security tools & scripts  
-- 🛡️ Defensive security guides  
-- 🕵️ Ethical hacking practice labs  
+We are building a **Cyber Security learning community** focused on:
 
-**Want to join?**
-- ⭐ Star the repositories  
-- 🔀 Fork and contribute  
-- 📩 Contact me via LinkedIn or Email  
+🔍 Web vulnerability testing  
+🧪 Security tools and scripts  
+🛡️ Defensive security guides  
+🕵️ Ethical hacking practice labs  
+📚 Cyber security learning resources  
+
+### How to Join
+
+⭐ Star repositories  
+🔀 Fork and contribute  
+📩 Contact via LinkedIn or Email  
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://twitter.com/pasindu242"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="50"/></a>
-  <a href="https://www.linkedin.com/in/pasindu-kumarasinghe-17b46431b/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50"/></a>
-  <a href="https://instagram.com/pasindu__sl"><img src="https://media.tenor.com/QsaxvK8W_AoAAAAj/araslot-instagram.gif" height="45"/></a>
+
+<a href="https://twitter.com/pasindu242">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pasindu-kumarasinghe-17b46431b/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/pasindu__sl">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">🔥 “Learning never stops in Cyber Security.” 🔥</p>
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=teshan242&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+
+🔥 **"Learning Never Stops in Cyber Security."** 🔥
+
+</p>
